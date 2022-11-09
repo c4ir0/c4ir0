@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c4ir0
+- 👋 Hi, I’m Cairo
 - 👀 I’m interested in Ba$h
 - 🌱 I’m currently learning Ba$h
 - 💞️ I’m looking to collaborate on H4ckin9
