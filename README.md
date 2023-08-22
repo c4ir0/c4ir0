@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cairo
 - 👀 I’m interested in Ba$h
-- 🌱 I’m currently learning Ba$h
+
 - - 📫 How to reach me [@twitter](https://twitter.com/c4ir0_)
 
 <!---
